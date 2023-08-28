@@ -1,0 +1,12 @@
+C:\Users\Cansu\source\repos\finalproject\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Cansu\source\repos\finalproject\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Cansu\source\repos\finalproject\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Cansu\source\repos\finalproject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Cansu\source\repos\finalproject\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cansu\source\repos\finalproject\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Cansu\source\repos\finalproject\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Cansu\source\repos\finalproject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Cansu\source\repos\finalproject\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Cansu\source\repos\finalproject\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Cansu\source\repos\finalproject\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Cansu\source\repos\finalproject\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
